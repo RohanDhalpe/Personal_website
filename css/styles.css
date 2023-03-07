@@ -1,0 +1,112 @@
+body{
+    color: #40514E;
+    margin:0; 
+    text-align: center ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
+   
+}
+.roimg{
+    padding: 45px;
+}
+
+h1{ line-height: 2;
+    font-size: 90px;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(67, 5, 142)
+}
+
+h3{
+color: rgb(50, 173, 128);
+outline-color: black;
+}
+
+.top-container{
+    background-color:rgb(50, 173, 128);
+    position: relative;
+    padding-top : 100px;
+    
+}
+
+.middle-container{
+  margin: auto;
+   
+}
+
+.bottom-container{
+  padding: 50px 0px 20px;
+  background-color: #11999E;
+}
+
+.pro{
+    text-decoration: underline;
+}
+.intro{
+    width: 40%;
+    margin:auto;
+    font-size: 1.2em;
+   
+}
+p{
+    line-height: 2;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute  ;
+    right: 300px;
+    top: 50px;
+}
+h2{ font-weight: normal;
+    font-size: 2.5rem;
+    color: rgb(50, 173, 128);
+}
+
+.skill-row{
+    text-align: center;
+    /* width: 50%; */
+}
+
+.btn {
+    
+    font-family: arial;
+    font-weight: bold;
+    color: #0D0B0B !important;
+    font-size: 22px;
+    text-shadow: 2px 2px 6px #7CACDE;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 15px 25px;
+    border-radius: 16px;
+    border: 2px solid #3866A3;
+    background: #4AE9EE;
+    background: linear-gradient(to top, #4AE9EE, #61CFBD);
+    text-decoration: none;
+  }
+  .btn:hover {
+    color: #14396A !important;
+    background: #468CCF;
+    background: linear-gradient(to top, #468CCF, #63B8EE);
+    text-decoration: none;
+  }
+  a{
+    color: #02191a;
+    margin: 20px 20px 20px 20px;
+    text-decoration: none;
+    
+  }
+  
+.contact-me{
+   
+   padding-bottom: 5%;
+}
+
+.copyright{
+    color:#1e2121;
+    font-size: 0.9rem;
+}
